@@ -1,0 +1,11 @@
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\bin\Debug\IDGNee.CompilerTests.exe.config
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\bin\Debug\IDGNee.CompilerTests.exe
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\bin\Debug\IDGNee.CompilerTests.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\bin\Debug\IDGNee.Core.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\bin\Debug\IDGNee.Core.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.InstructionCompiler.resources
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.exe
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.CompilerTests\obj\Debug\IDGNee.CompilerTests.pdb

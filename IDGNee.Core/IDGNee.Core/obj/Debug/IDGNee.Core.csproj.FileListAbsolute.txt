@@ -1,0 +1,5 @@
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.Core\bin\Debug\IDGNee.Core.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.Core\bin\Debug\IDGNee.Core.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.Core\obj\Debug\IDGNee.Core.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.Core\obj\Debug\IDGNee.Core.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\IDGNee.Core\IDGNee.Core\obj\Debug\IDGNee.Core.pdb
